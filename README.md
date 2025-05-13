@@ -2,7 +2,7 @@
 
 
 # LeSTGraph: LLM-Guided Self-Supervised Spatial-Temporal Graph Learning for Urban Data Modeling #
-This is the implementation of LLM is A Good Spatio-Temporal Embedder in the following paper:
+This is the implementation of LeSTGraph: LLM-Guided Self-Supervised Spatial-Temporal Graph Learning for Urban Data Modeling in the following paper:
 
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
