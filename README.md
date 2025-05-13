@@ -1,7 +1,7 @@
 
 
 
-# LLM is A Good Spatio-Temporal Embedder #
+# LeSTGraph: \\LLM-Guided Self-Supervised Spatial-Temporal Graph Learning for Urban Data Modeling #
 This is the implementation of LLM is A Good Spatio-Temporal Embedder in the following paper:
 
 ## Requirements ##
